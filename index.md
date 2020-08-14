@@ -1,10 +1,8 @@
 ## About CourseMon
 
-Course Monitor (or CourseMon) is a simple Greasemonkey/Tampermonkey script. It checks every few seconds for openings in a course, which you specify. 
+Course Monitor (or CourseMon) is a simple Greasemonkey/Tampermonkey script. It checks every few seconds for openings in a course, which you specify. When an opening is found, the script notifies you.
 
 Instructions as to how to use this script are below. 
-
-When an opening is found, the script notifies you.
 
 Disclaimer: this webpage and script were made entirely for educational purposes.
 
