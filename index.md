@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## About CourseMon
 
-You can use the [editor on GitHub](https://github.com/MarshesDuck/Course-Monitor/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Course Monitor (or CourseMon) is a simple Greasemonkey/Tampermonkey script. It checks every few seconds for openings in a course, which you specify. Instructions as to how to use this script are below. When an opening is found, the script notifies you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disclaimer: this webpage and script were made entirely for educational purposes.
 
-### Markdown
+## Instructions for Use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Install greasemonkey/tampermonkey
+ 
+2. Paste the script into greasemonkey/tampermonkey: https://github.com/MarshesDuck/Course-Monitor/blob/master/Course%20Monitor.js
+ 
+3. Change the course subject and number to the course that you would like to monitor- listed under USER SETTINGS in the script
+ 
+4. Run the script on this page: https://studentservices.uwo.ca/secure/timetables/mastertt/ttindex.cfm
+ 
+5. Make sure that the above website is given permission to play audio (so that you receive a notification).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Version 1.1 Release
 
-- Bulleted
-- List
+(It might actually be 1.2. I can't keep track of how many small changes I've made to this file now.) 
 
-1. Numbered
-2. List
+It's been fully functional for a while now. The one major change is that I've moved this project and all of its files over to Github, when it was previously a bunch of pastes in pastebin. The pastebin is located here, if you're curious. https://pastebin.com/u/marshes
 
-**Bold** and _Italic_ and `Code` text
+The sound file that the script plays when it detects a course that is not full also went down a number of times, making me change the sound link on the script a few times. Now that the entire project is hosted on Github, this shouldn't be a problem anymore. 
 
-[Link](url) and ![Image](src)
-```
+In the future, I'm planning to implement the following:
+- Rechecks at random intervals, instead of a set interval.
+- Proper desktop notifications (instead of just playing a ping).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarshesDuck/Course-Monitor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
