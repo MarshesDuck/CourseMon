@@ -19,12 +19,16 @@ Disclaimer: this webpage and script were made entirely for educational purposes.
 4. Run the script on this page: <https://studentservices.uwo.ca/secure/timetables/mastertt/ttindex.cfm>
 
 5. Allow the webpage to show notifications when prompted. 
- 
-5. Make sure that the above website is also given permission to play audio. (Note: this has to be done manually at this moment).
+
+6. (If your browser has silent notifications)
+Make sure that the above website is also given permission to play audio.
+
+
 
 ## Version 1.2 Release
 
 Now has real desktop notifications!
+
 
 ## Version 1.1 Release
 
