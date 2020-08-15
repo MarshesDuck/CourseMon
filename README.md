@@ -1,7 +1,7 @@
 # Course-Monitor
 Checks periodically for openings in a user-specified course. 
 
-## Instructions for Use
+### Instructions for Use
 
 1. Install greasemonkey/tampermonkey
  
@@ -13,12 +13,12 @@ Checks periodically for openings in a user-specified course.
 
 5. Allow the webpage to show notifications when prompted. 
  
-5. Make sure that the above website is also given permission to play audio. (Note: this has to be done manually at this moment).
+6. (If your browser has silent notifications)
+Make sure that the above website is also given permission to play audio.
 
 
-## To Do:
+#### To Do:
 - rechecks at random intervals
-- asks to autoplay audio (right now you have to manually enable audio)
 
 
 Older project files were originally uploaded to https://pastebin.com/u/marshes.
