@@ -16,7 +16,7 @@ Checks periodically for openings in a user-specified course.
 5. Make sure that the above website is also given permission to play audio. (Note: this has to be done manually at this moment).
 
 
-To Do:
+## To Do:
 - rechecks at random intervals
 - asks to autoplay audio (right now you have to manually enable audio)
 
