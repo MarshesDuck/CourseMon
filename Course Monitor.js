@@ -96,6 +96,7 @@ function notifyMe(){
 function play(){
   var audio = new Audio
   ("https://raw.githubusercontent.com/MarshesDuck/Course-Monitor/master/insight.mp3");
+  audio.play();
 }
 
 // Sends out the notification when a course is avaliable
