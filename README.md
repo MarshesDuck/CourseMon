@@ -17,8 +17,4 @@ Checks periodically for openings in a user-specified course.
 Make sure that the above website is also given permission to play audio.
 
 
-#### To Do:
-- rechecks at random intervals
-
-
 Older project files were originally uploaded to https://pastebin.com/u/marshes.
