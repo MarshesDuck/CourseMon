@@ -27,26 +27,26 @@ Make sure that the above website is also given permission to play audio.
 ## Patch Notes
 
 ### Version 1.21 Release
-#### Aug 16 2020
+Aug 16 2020
 
 Version 1.2 but with cleaner code.
 Redundant code was removed, and the script was reformatted for readability and consistency.  
 
 
 ### Version 1.2 Release
-#### Aug 15 2020
+Aug 15 2020
 
 Now has real desktop notifications!
 
 
 ### Project moved from Pastebin to Github
-#### Aug 12 2020
+Aug 12 2020
 
 It's been fully functional for a while now. The one major change is that I've moved this project and all of its files over to Github, when it was previously a bunch of pastes in pastebin. The pastebin is located here, if you're curious. <https://pastebin.com/u/marshes>
 
 
 ### Version 1.1 Release
-#### Aug 05 2020
+Aug 05 2020
 
 Now significantly more usable!
 - The part of the script where you enter in course subject and course number is now cleaner and more user friendly.
@@ -59,7 +59,7 @@ Remaining planned "features" to watch for in the future:
 
 
 ### Version 1.0 Release
-#### Aug 02 2020
+Aug 02 2020
 
 The script is finally functional.
  
