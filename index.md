@@ -25,6 +25,12 @@ Make sure that the above website is also given permission to play audio.
 
 
 
+## Version 1.21 Release
+
+Version 1.2 but with cleaner code.
+Redundant code was removed, and the script was reformatted for readability and consistency.  
+
+
 ## Version 1.2 Release
 
 Now has real desktop notifications!
@@ -39,5 +45,6 @@ The sound file that the script plays when it detects a course that is not full a
 In the future, I'm planning to implement the following:
 - Rechecks at random intervals, instead of a set interval.
 - Proper desktop notifications (instead of just playing a ping).
+
 
 
