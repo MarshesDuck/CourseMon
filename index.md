@@ -27,25 +27,47 @@ Make sure that the above website is also given permission to play audio.
 ## Patch Notes
 
 ### Version 1.21 Release
+#### Aug 16 2020
 
 Version 1.2 but with cleaner code.
 Redundant code was removed, and the script was reformatted for readability and consistency.  
 
 
 ### Version 1.2 Release
+#### Aug 15 2020
 
 Now has real desktop notifications!
 
 
-### Version 1.1 Release
+### Project moved from Pastebin to Github
+#### Aug 12 2020
 
 It's been fully functional for a while now. The one major change is that I've moved this project and all of its files over to Github, when it was previously a bunch of pastes in pastebin. The pastebin is located here, if you're curious. <https://pastebin.com/u/marshes>
 
-The sound file that the script plays when it detects a course that is not full also went down a number of times, making me change the sound link on the script a few times. Now that the entire project is hosted on Github, this shouldn't be a problem anymore. 
 
-In the future, I'm planning to implement the following:
-- Rechecks at random intervals, instead of a set interval.
-- Proper desktop notifications (instead of just playing a ping).
+### Version 1.1 Release
+#### Aug 05 2020
 
+Now significantly more usable!
+- The part of the script where you enter in course subject and course number is now cleaner and more user friendly.
+- @match added onto the top of the script so that it automatically runs on the correct website.
+- fixed a spelling error
+ 
+Remaining planned "features" to watch for in the future:
+- rechecks at random intervals
+- proper desktop notifications (instead of just playing a ping)
+
+
+### Version 1.0 Release
+#### Aug 02 2020
+
+The script is finally functional.
+ 
+Planned "features" for future updates:
+- @match for the western timetables website (was too lazy to put it in already)
+- proper desktop notifications (instead of just playing a ping)
+- rechecks at random intervals
+- more intuitive "user settings"
+ 
 
 
