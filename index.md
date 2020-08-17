@@ -24,19 +24,20 @@ Disclaimer: this webpage and script were made entirely for educational purposes.
 Make sure that the above website is also given permission to play audio.
 
 
+## Patch Notes
 
-## Version 1.21 Release
+### Version 1.21 Release
 
 Version 1.2 but with cleaner code.
 Redundant code was removed, and the script was reformatted for readability and consistency.  
 
 
-## Version 1.2 Release
+### Version 1.2 Release
 
 Now has real desktop notifications!
 
 
-## Version 1.1 Release
+### Version 1.1 Release
 
 It's been fully functional for a while now. The one major change is that I've moved this project and all of its files over to Github, when it was previously a bunch of pastes in pastebin. The pastebin is located here, if you're curious. <https://pastebin.com/u/marshes>
 
