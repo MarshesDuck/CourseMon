@@ -5,7 +5,7 @@ Checks periodically for openings in a user-specified course.
 
 1. Install greasemonkey/tampermonkey
  
-2. Copy paste this script into greasemonkey/tampermonkey: <https://github.com/MarshesDuck/Course-Monitor/blob/master/Course%20Monitor.js>
+2. Copy paste this script into greasemonkey/tampermonkey: <https://github.com/Meg-Zhang/Course-Monitor/blob/master/Course%20Monitor.js>
  
 3. Change the course subject and number to the course that you would like to monitor- listed under USER SETTINGS in the script
  
