@@ -2,7 +2,7 @@
 // @name     uwo course availability checker
 // @version  1.21
 // @author   Lucky Ducky
-// @match	   https://studentservices.uwo.ca/*
+// @match    https://studentservices.uwo.ca/*
 // @require  https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
 // @run-at   document-end
 // ==/UserScript==
