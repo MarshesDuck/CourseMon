@@ -88,7 +88,7 @@ function notifyMe() {
 
 // Notification sound audio
 function play() {
-  var audio = new Audio("https://raw.githubusercontent.com/Meg-Zhang/Course-Monitor/master/insight.mp3");
+  var audio = new Audio("https://raw.githubusercontent.com/MarshesDuck/Course-Monitor/master/insight.mp3");
   audio.play();
 }
 
