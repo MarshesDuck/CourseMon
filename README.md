@@ -1,4 +1,8 @@
-# Course-Monitor
+# Course-Monitor Legacy
+
+Old version of the good old tampermonkey/greasemonkey script if you preferred it this way.
+
+
 Checks periodically for openings in a user-specified course. 
 
 ### Instructions for Use
