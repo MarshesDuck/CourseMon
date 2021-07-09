@@ -8,11 +8,28 @@ Instructions as to how to use this script are below.
 
 Disclaimer: this webpage and script were made entirely for educational purposes.
 
-## Instructions for Use
+## Instructions for Use (Latest Version 2.0)
 
 1. Install greasemonkey/tampermonkey
  
-2. Copy paste this script into greasemonkey/tampermonkey: <https://github.com/MarshesDuck/CourseMon/blob/master/Course%20Monitor.js>
+2. Copy paste this script into greasemonkey/tampermonkey: <https://github.com/MarshesDuck/Course-Monitor/blob/master/Course%20Monitor.js>
+
+3. Navigate to this page: <https://studentservices.uwo.ca/secure/timetables/mastertt/ttindex.cfm>
+
+4. On that webpage, use the drop down menus to find the exact class that you would like to monitor. 
+
+5. If the script is not already enabled, enable the greasemonkey/tampermonkey script, and watch it refresh (check) for your course avaliability every 20 seconds. 
+
+6. Allow the webpage to show notifications when prompted. 
+ 
+7. (If your browser has silent notifications)
+Make sure that the above website is also given permission to play audio.
+
+## Instructions for Use (Legacy Version 1.21)
+
+1. Install greasemonkey/tampermonkey
+ 
+2. Copy paste this script into greasemonkey/tampermonkey: <https://github.com/MarshesDuck/CourseMon/blob/Legacy/Course%20Monitor.js>
  
 3. Change the course subject and number to the course that you would like to monitor- listed under USER SETTINGS in the script
  
@@ -25,6 +42,13 @@ Make sure that the above website is also given permission to play audio.
 
 
 ## Patch Notes
+
+### Version 2.0 Release
+July 09 2021 Update:
+Now easier to use. User can use the drop down menus on the course calendar site to directly choose their course, instead of modifying code. If the user prefers to select a course by modifying the code, the legacy code is at https://github.com/MarshesDuck/CourseMon/tree/Legacy.
+
+Credit goes to [@Dryader](https://github.com/Dryader). Thank you for your contribution!
+
 
 ### Version 1.21 Release
 Aug 16 2020
