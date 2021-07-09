@@ -23,7 +23,7 @@ if (window.history.replaceState) {
 // automatically clicks submit button to refresh the page
 setTimeout(function() {
   $(".btn.btn-info.span2").trigger("click");
-}, 30000);
+}, 20000);
 
 // initialize variables for course status checking
 var TEXT = "Not Full"
