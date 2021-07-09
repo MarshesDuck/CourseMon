@@ -45,7 +45,7 @@ Make sure that the above website is also given permission to play audio.
 
 ### Version 2.0 Release
 July 09 2021 Update:
-Now easier to use. User can use the drop down menus on the course calendar site to directly choose their course, instead of modifying code. If the user prefers to select a course by modifying the code, the legacy code is at https://github.com/MarshesDuck/CourseMon/tree/Legacy.
+Now easier to use. User can use the drop down menus on the course calendar site to directly choose their course, instead of modifying code. If the user prefers to select a course by modifying the code, the legacy code is at <https://github.com/MarshesDuck/CourseMon/tree/Legacy>.
 
 Credit goes to [@Dryader](https://github.com/Dryader). Thank you for your contribution!
 
