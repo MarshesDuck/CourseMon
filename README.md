@@ -13,7 +13,7 @@ Checks periodically for openings in a user-specified course.
 
 4. On that webpage, use the drop down menus to find the exact class that you would like to monitor. 
 
-5. Enable the greasemonkeyy/tampermonkey script, and watch it refresh (check) for your course avaliability every 10 seconds. 
+5. Enable the greasemonkey/tampermonkey script, and watch it refresh (check) for your course avaliability every 10 seconds. 
 
 6. Allow the webpage to show notifications when prompted. 
  
@@ -22,7 +22,7 @@ Make sure that the above website is also given permission to play audio.
 
 Older project files were originally uploaded to https://pastebin.com/u/marshes.
 
-Credit goes to @Dryader for the quality of life update. Thank you so much for pointing out to me that the script would still work if you just directly selected the courses on the course calendar page. 
+Credit goes to [@Dryader](https://github.com/Dryader) for the quality of life update. Thank you for pointing out to me that the script would still work if you just directly selected the courses on the course calendar page. 
 
 
 ### July 09 2021 Update:
