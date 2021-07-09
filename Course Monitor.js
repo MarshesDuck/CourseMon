@@ -7,18 +7,6 @@
 // @run-at   document-end
 // ==/UserScript==
 
-
-// ---------------------- USER SETTINGS ------------------------------
-
-// Specify the course that you would like to monitor here!
-
-//courseSubject = "HISTORY"
-
-//courseNumber = "1201E"
-
-
-// ----------------------------///------------------------------------
-
 // Asks for permission to play a notification
 function grantNotifPerm() {
   if (Notification.permission !== "granted") {
@@ -26,12 +14,6 @@ function grantNotifPerm() {
   }
 }
 grantNotifPerm();
-
-// set course subject
-//document.getElementById("inputSubject").value = courseSubject;
-
-// set course number (and term if applicable) (eg. 2250, 1021A, 2155F, 2601A)
-//document.getElementById("inputCatalognbr").value = courseNumber;
 
 // prevents window from showing resubmit form dialogue
 if (window.history.replaceState) {
@@ -41,7 +23,7 @@ if (window.history.replaceState) {
 // automatically clicks submit button to refresh the page
 setTimeout(function() {
   $(".btn.btn-info.span2").trigger("click");
-}, 10000);
+}, 30000);
 
 // initialize variables for course status checking
 var TEXT = "Not Full"
