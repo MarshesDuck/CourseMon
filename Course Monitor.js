@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     uwo course availability checker
-// @version  1.21
+// @version  2.0
 // @author   Lucky Ducky
 // @match    https://studentservices.uwo.ca/*
 // @require  https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
@@ -12,9 +12,9 @@
 
 // Specify the course that you would like to monitor here!
 
-courseSubject = "HISTORY"
+//courseSubject = "HISTORY"
 
-courseNumber = "1201E"
+//courseNumber = "1201E"
 
 
 // ----------------------------///------------------------------------
@@ -28,10 +28,10 @@ function grantNotifPerm() {
 grantNotifPerm();
 
 // set course subject
-document.getElementById("inputSubject").value = courseSubject;
+//document.getElementById("inputSubject").value = courseSubject;
 
 // set course number (and term if applicable) (eg. 2250, 1021A, 2155F, 2601A)
-document.getElementById("inputCatalognbr").value = courseNumber;
+//document.getElementById("inputCatalognbr").value = courseNumber;
 
 // prevents window from showing resubmit form dialogue
 if (window.history.replaceState) {
