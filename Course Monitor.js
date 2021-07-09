@@ -65,7 +65,7 @@ for (var i = 0; i < allText.snapshotLength; i++) {
 
 // Creates the notification to be shown when a course is not full.
 function notifyMe() {
-  var notification = new Notification(courseSubject + " " + courseNumber + " is now avaliable!");
+  var notification = new Notification("Your course is now avaliable!");
 }
 
 // Notification sound audio
