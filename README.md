@@ -1,7 +1,8 @@
 # Course-Monitor
 Checks periodically for openings in a user-specified course. 
 
-### Legacy Version of CourseMon (still works by the way) can be found here: <https://github.com/MarshesDuck/CourseMon/tree/Legacy>
+### Legacy Version of CourseMon (still works by the way) can be found here: 
+<https://github.com/MarshesDuck/CourseMon/tree/Legacy>
 
 ### Instructions for Use
 
