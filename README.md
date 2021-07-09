@@ -23,6 +23,8 @@ Make sure that the above website is also given permission to play audio.
 
 Older project files were originally uploaded to https://pastebin.com/u/marshes.
 
+### July 09 2021 Update:
+The code still works. A newer version of coursemon has been created with slightly different (and easier) usage and can be found on the master branch here: <https://github.com/MarshesDuck/CourseMon>
 
 ### October 16 2020 Update: 
 The code still works.
